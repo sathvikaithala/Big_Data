@@ -13,5 +13,7 @@ In this assignment, we were tasked with running the ETL process on the cloud, us
 
 We first created our tables in the RDS database. We then extracted the data from the S3 bucket and loaded it into a dataframe. Once the data was in a DataFrame, we transformed it to fit the desired schema (from schema.sql). To complete the ETL process, we loaded the DataFrames that correspond to tables into an RDS instance.
 
-Once the ETL process was completed, we performed statistical analyses in PySpark to determine if the Vine reviews were unbiased.
+Once the ETL process was completed, we performed statistical analyses in PySpark to determine if the Vine reviews were unbiased. 
+
+My work (including analysis) is in the notebook.
 
