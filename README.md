@@ -5,7 +5,7 @@ UC Berkeley Extension Data Analytics Boot Camp Module 16
 
 This assignment was done and submitted on Google Colaboratory. The link to my Colab workbook for the module files is [here](https://colab.research.google.com/drive/17uht8ZHqXJov6voWhfsfUFJCSb-fy3T0?usp=sharing).
 
-The link to the challenge assignment workbook is [here](insertlinkhere).
+The link to the challenge assignment workbook is [here](https://colab.research.google.com/drive/1xFXA77m_LkfspLMxnvbwKD8ByIY0aOR7?usp=sharing).
 
 ### Objectives:
 
