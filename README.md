@@ -15,5 +15,5 @@ We first created our tables in the RDS database. We then extracted the data from
 
 Once the ETL process was completed, we performed statistical analyses in PySpark to determine if the Vine reviews were unbiased. 
 
-My work (including analysis) is in the notebook.
+My work (including analysis) is in the notebook. Through our analysis, we were able to determine that the Vine reviews were trustworthy.
 
